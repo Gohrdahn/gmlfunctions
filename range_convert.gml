@@ -1,4 +1,4 @@
-/// @function Converts a given value within the old range to a congruent value in the new range.
+/// desc Converts a given value within the old range to a congruent value in the new range.
 
 /// @param		{real}		range_value		The number to convert from the old range.
 /// @param		{real}		old_range		The number of values within the old range (default is 255).
